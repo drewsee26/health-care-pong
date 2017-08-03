@@ -1,0 +1,28 @@
+canvas {
+    border-style: dotted;
+    border-color: white;
+    padding: 0;
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.game-title {
+    text-align: center;
+}
+.table-background {
+    padding: 0;
+    margin: auto;
+    display: block;
+    position: absolute;
+    width: 1000px;
+    height: 450px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
